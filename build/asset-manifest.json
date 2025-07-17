@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//dracosblood.github.io/demo/static/css/main.b2a2cc2e.css",
+    "main.js": "/https//dracosblood.github.io/demo/static/js/main.d218336a.js",
+    "index.html": "/https//dracosblood.github.io/demo/index.html",
+    "main.b2a2cc2e.css.map": "/https//dracosblood.github.io/demo/static/css/main.b2a2cc2e.css.map",
+    "main.d218336a.js.map": "/https//dracosblood.github.io/demo/static/js/main.d218336a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2a2cc2e.css",
+    "static/js/main.d218336a.js"
+  ]
+}
